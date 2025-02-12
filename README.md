@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Pratyush Negi! 👋
 
-<!--
-**1234Pratyush/1234Pratyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Frontend Developer | React.js | Tailwind CSS | JavaScript Enthusiast**  
 
-Here are some ideas to get you started:
+### 🛠️ About Me:
+- 🎓 I have completed my  **MCA from Graphic Era Hill University**.
+- 💻 Passionate about building **responsive and scalable web applications**.
+- 🏗️ Experienced with **React.js, Tailwind CSS, JavaScript, and Vite**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me:
+- 📧 **Email:** [pratyushnegi58@gmail.com](mailto:pratyushnegi58@gmail.com)
+- 💼 **LinkedIn:** [Pratyush Negi](https://www.linkedin.com/in/pratyush-negi-295606254/)
+- 🌍 **GitHub:** [1234Pratyush](https://github.com/1234Pratyush)
+
+### ⚡ Fun Fact:
+I love **exploring new web technologies** and **optimizing UI performance** for a seamless user experience! 😃  
+
+
