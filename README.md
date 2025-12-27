@@ -1,13 +1,15 @@
 # 💫 About Me:
 👋 Hey, I’m Pratyush!
 
-I’m a web developer at CodeArrest Software Pvt. Ltd. who loves building cool stuff with code 💻
+I’m a web developer at CodeArrest Software Pvt. Ltd. who loves building cool stuff with code 💻  
 Always learning and exploring new things in web development and full-stack apps.
 
-💬 Feel free to ask me about React, JavaScript, APIs, or anything web-related
+
+💬 Feel free to ask me about React, JavaScript, APIs, or anything web-related  
 📫 You can find me on Twitter (@PNegi18025) and LinkedIn (pratyush-negi-295606254)
 
-😄 He/Him
+
+😄 He/Him  
 ⚡ Fun fact: If I’m not coding, I’m probably gaming with friends or playing football ⚽🎮
 
 
