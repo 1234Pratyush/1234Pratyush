@@ -1,5 +1,14 @@
 # 💫 About Me:
-Hi there 👋<br><br>Nice meeting you, I'm Pratyush!<br>I’m currently working at CodeArrest Software Private Limited<br>💬 Ask me about Web development related stuff<br>📫 How to reach me: Twitter - @PNegi18025, LinkedIn - @in/pratyush-negi-295606254<br>😄 Pronouns: He/His<br>Fun fact: When I’m not coding, I’m probably playing games with my friends or playing football.
+👋 Hey, I’m Pratyush!
+
+I’m a web developer at CodeArrest Software Pvt. Ltd. who loves building cool stuff with code 💻
+Always learning and exploring new things in web development and full-stack apps.
+
+💬 Feel free to ask me about React, JavaScript, APIs, or anything web-related
+📫 You can find me on Twitter (@PNegi18025) and LinkedIn (pratyush-negi-295606254)
+
+😄 He/Him
+⚡ Fun fact: If I’m not coding, I’m probably gaming with friends or playing football ⚽🎮
 
 
 ## 🌐 Socials:
