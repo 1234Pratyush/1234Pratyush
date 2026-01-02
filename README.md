@@ -57,31 +57,5 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
 
-## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=1234Pratyush&show_icons=true&theme=react&hide_border=true"/>
-</p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1234Pratyush&layout=compact&theme=react&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1234Pratyush&theme=react-dark"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</p>
-
-<!-- Snake Animation -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1234Pratyush/1234Pratyush/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1234Pratyush/1234Pratyush/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/1234Pratyush/1234Pratyush/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
