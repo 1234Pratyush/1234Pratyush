@@ -11,7 +11,7 @@
 
 <!-- Profile Views -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pratyush-negi&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=1234Pratyush&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
 
 <!-- Social Badges -->
@@ -60,15 +60,15 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratyush-negi&show_icons=true&theme=react&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=1234Pratyush&show_icons=true&theme=react&hide_border=true"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush-negi&layout=compact&theme=react&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1234Pratyush&layout=compact&theme=react&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyush-negi&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1234Pratyush&theme=react-dark"/>
 </p>
 
 ---
@@ -80,8 +80,8 @@
 <!-- Snake Animation -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratyush-negi/pratyush-negi/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratyush-negi/pratyush-negi/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/pratyush-negi/pratyush-negi/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1234Pratyush/1234Pratyush/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1234Pratyush/1234Pratyush/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/1234Pratyush/1234Pratyush/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
