@@ -28,11 +28,13 @@
 
 ## 👨‍💻 About Me
 
-🌱 **Currently learning:** Advanced React, TypeScript, and scalable backend systems  
-🔭 **Currently working at:** **CodeArrest Software Pvt. Ltd.** as a Web Developer  
-🛠 **Building:** Full-stack apps with React, Node.js, Express & MongoDB  
-💬 **Ask me about:** React, JavaScript, APIs, MERN stack  
-⚡ **Fun fact:** If I’m not coding, I’m probably gaming 🎮 or playing football ⚽  
+🌱 Currently learning: Advanced React, TypeScript, and scalable backend systems  
+🔭 Currently working at: CodeArrest Software Pvt. Ltd. as a Web Developer  
+🛠 Building: Full-stack apps with React, Node.js, Express & MongoDB  
+💬 Ask me about: React, JavaScript, APIs, MERN stack  
+📈 Developer status: Okayish at development, trash at DSA, trying to be a better engineer  
+⚡ Fun fact: If I’m not coding, I’m probably gaming 🎮 or playing football ⚽
+
 
 ---
 
